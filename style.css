@@ -1,0 +1,27 @@
+    body {
+    background-color:cornflowerblue
+    }
+    h1 {
+    color:gold;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 49px;
+    }
+
+    p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    }
+
+    h2 {
+    color:gold;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 39px;
+    }
+
+    #titulotabla {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color:gold;
+    }
