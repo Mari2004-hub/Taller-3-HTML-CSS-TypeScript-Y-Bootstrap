@@ -1,27 +1,27 @@
-   body {
+body {
     background-color:rgb(159, 216, 216);
-    }
-    h1 {
-    color: darkblue;
-    text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 49px;
     }
 
     p {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
     }
 
     h2 {
-    color:darkblue;
-    text-align: center;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 39px;
+    color:aliceblue;
+    text-align:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
     }
 
     #titulotabla {
     text-align: center;
-    font-family: "Times New Roman", Times, serif;
-    color:darkblue;
-     }
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    }
+
+    .datostabla {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
