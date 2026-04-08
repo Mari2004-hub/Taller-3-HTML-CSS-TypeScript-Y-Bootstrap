@@ -1,8 +1,8 @@
-    body {
-    background-color:cornflowerblue
+   body {
+    background-color:rgb(159, 216, 216);
     }
     h1 {
-    color:gold;
+    color: darkblue;
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 49px;
@@ -14,7 +14,7 @@
     }
 
     h2 {
-    color:gold;
+    color:darkblue;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     font-size: 39px;
@@ -23,5 +23,5 @@
     #titulotabla {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
-    color:gold;
-    }
+    color:darkblue;
+     }
