@@ -1,4 +1,4 @@
-body {
+    body {
     background-color:rgb(159, 216, 216);
     }
 
@@ -22,6 +22,11 @@ body {
     }
 
     .datostabla {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .copias {
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
