@@ -1,3 +1,6 @@
+console.log('Bienvenido!')
+console.log('Suma de copias vendias de las diferentes sagas')
+
 function calcularTotal() {
   let copias = document.querySelectorAll(".copias");
   let total = 0;
